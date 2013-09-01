@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Compilation of Miami Publications Advancing the Social Sciences</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="generator" content="Open Journal Systems 2.3.6.0" />
+	
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/styles/common.css" type="text/css" />
+	
+
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='http://openjournal.lib.muohio.edu/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='http://openjournal.lib.muohio.edu/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.2");
+			google.load("jqueryui", "1.8.1");
+		}
+	</script>
+	
+	
+	
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/styles/sidebar.css" type="text/css" />		
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/styles/rightSidebar.css" type="text/css" />	
+	<!-- <link rel="stylesheet" href="http://openjournal.lib.muohio.edu/plugins/themes/vanilla/vanilla.css" type="text/css" /> -->
+	<link rel="stylesheet" href="stylesheet.css" type="text/css" />
+	
+	<script type="text/javascript" src="http://openjournal.lib.muohio.edu/lib/pkp/js/general.js"></script>
+	<script type="text/javascript" src="http://openjournal.lib.muohio.edu/lib/pkp/js/tag-it.js"></script>
+	<!-- Add javascript required for font sizer -->
+	<script type="text/javascript" src="http://openjournal.lib.muohio.edu/lib/pkp/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://openjournal.lib.muohio.edu/lib/pkp/js/fontController.js" ></script>
+	<script type="text/javascript">
+		$(function(){
+			fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+		});
+	</script>
+
+	<script type="text/javascript">
+        // initialise plugins
+		
+        $(function(){
+        	
+		});
+		
+	</script>
+
+	
+</head>
+<body>
+	<div id="container">
+		<div id="header">
+			<div id="headerTitle">
+				<h1>
+					<img src="http://openjournal.lib.muohio.edu/public/journals/3/homeHeaderTitleImage_en_US.jpg" width="100%" height="191" alt="C.O.M.P.A.S.S. A Compilation of Miami Publications Advancing the Social Sciences" />
+				</h1>
+			</div>
+		</div>
+
+		<div id="body">
+			<div id="main">
+				<div id="navbar">
+					<ul class="menu">
+						<li id="home"><a href="http://openjournal.lib.muohio.edu/index.php/eps/index">Home</a></li>
+						<li id="about"><a href="http://openjournal.lib.muohio.edu/index.php/eps/about">About</a></li>
+						<li id="login"><a href="http://openjournal.lib.muohio.edu/index.php/eps/login">Log In</a></li>
+						<li id="register"><a href="http://openjournal.lib.muohio.edu/index.php/eps/user/register">Register</a></li>
+						<li id="search"><a href="http://openjournal.lib.muohio.edu/index.php/eps/search">Search</a></li>
+						<li id="current"><a href="http://openjournal.lib.muohio.edu/index.php/eps/issue/current">Current</a></li>
+						<li id="archives"><a href="http://openjournal.lib.muohio.edu/index.php/eps/issue/archive">Archives</a></li>
+						<li id="announcements"><a href="http://openjournal.lib.muohio.edu/index.php/eps/announcement">Announcements</a></li>
+					</ul>
+				</div>
+				<div id="content">
+				<div class="skinny">
+				<h3>This page is currently still under construction!</h3>
+				<p>Please return to the homepage <a style="color:red !important;" href="index.html">Here</a>. This page will be update in further iterations of the website.</p>
+				
+				
+				
+				</div>
+					<div id="footer">
+						<div class="center">
+							<img src="Miami.png">
+							<a href="http://www.units.miamioh.edu/psychology" target="_blank">Department of Psychology</a>
+							<p><a href="http://www.miamioh.edu" target="_blank">Miami University, Oxford, OH</a></p>
+						</div>
+					</div>
+					
+				</div><!-- content -->
+			</div><!-- main -->
+		</div><!-- body -->
+	</div><!-- container -->
+</body>
+</html>

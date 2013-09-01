@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Compilation of Miami Publications Advancing the Social Sciences</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="generator" content="Open Journal Systems 2.3.6.0" />
+	
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/styles/common.css" type="text/css" />
+	
+
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='http://openjournal.lib.muohio.edu/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='http://openjournal.lib.muohio.edu/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.2");
+			google.load("jqueryui", "1.8.1");
+		}
+	</script>
+	
+	
+	
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/styles/sidebar.css" type="text/css" />		
+	<link rel="stylesheet" href="http://openjournal.lib.muohio.edu/styles/rightSidebar.css" type="text/css" />	
+	<!-- <link rel="stylesheet" href="http://openjournal.lib.muohio.edu/plugins/themes/vanilla/vanilla.css" type="text/css" /> -->
+	<link rel="stylesheet" href="stylesheet.css" type="text/css" />
+	
+	<script type="text/javascript" src="http://openjournal.lib.muohio.edu/lib/pkp/js/general.js"></script>
+	<script type="text/javascript" src="http://openjournal.lib.muohio.edu/lib/pkp/js/tag-it.js"></script>
+	<!-- Add javascript required for font sizer -->
+	<script type="text/javascript" src="http://openjournal.lib.muohio.edu/lib/pkp/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="http://openjournal.lib.muohio.edu/lib/pkp/js/fontController.js" ></script>
+	<script type="text/javascript">
+		$(function(){
+			fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+		});
+	</script>
+
+	<script type="text/javascript">
+        // initialise plugins
+		
+        $(function(){
+        	
+		});
+		
+	</script>
+
+	
+</head>
+<body>
+	<div id="container">
+		<div id="header">
+			<div id="headerTitle">
+				<h1>
+					<img src="http://openjournal.lib.muohio.edu/public/journals/3/homeHeaderTitleImage_en_US.jpg" width="100%" height="191" alt="C.O.M.P.A.S.S. A Compilation of Miami Publications Advancing the Social Sciences" />
+				</h1>
+			</div>
+		</div>
+
+		<div id="body">
+			<div id="main">
+				<div id="navbar">
+					<ul class="menu">
+						<li id="home"><a href="http://openjournal.lib.muohio.edu/index.php/eps/index">Home</a></li>
+						<li id="about"><a href="http://openjournal.lib.muohio.edu/index.php/eps/about">About</a></li>
+						<li id="login"><a href="http://openjournal.lib.muohio.edu/index.php/eps/login">Log In</a></li>
+						<li id="register"><a href="http://openjournal.lib.muohio.edu/index.php/eps/user/register">Register</a></li>
+						<li id="search"><a href="http://openjournal.lib.muohio.edu/index.php/eps/search">Search</a></li>
+						<li id="current"><a href="http://openjournal.lib.muohio.edu/index.php/eps/issue/current">Current</a></li>
+						<li id="archives"><a href="http://openjournal.lib.muohio.edu/index.php/eps/issue/archive">Archives</a></li>
+						<li id="announcements"><a href="http://openjournal.lib.muohio.edu/index.php/eps/announcement">Announcements</a></li>
+					</ul>
+				</div>
+				<div id="content">
+				<div class="skinny">
+					<!--TODO CONTENT-->
+					<h1>About COMPASS</h1>
+					<p>The Compilation of Miami Publications Advancing Social Sciences is an online journal featuring a collection of undergraduate research in Psychology. Our mission is to promote self -directed psychological inquiry in both our student readers and authors. The journal is published annually and copies of the most current edition of COMPASS are available online and in the Main office in the Psychology Building at Miami University’s Oxford campus. We would like to thank the Roger and Joyce Howe Center for Writing Excellence, the Elizabeth Burckhardt Fund, and the Naus Family Faculty Scholarship for their support in our endeavor.</p>
+					<h2>Editorial Board Members</h2>
+					<ul id="bioList">
+						<li><img src="pictures/Asia.JPG" width="200" height="200" /><p><span class="name">Asia Ameigh</span> - Asia Ameigh is a sophomore, majoring in psychology with a minor is sociology. She is an undergraduate researcher in the Behavioral Mimicry lab, and a member of Psi Chi, serving on their Event Committee. Additionally, Asia is a choreographer for Vision Dance Company.</p></li>
+						<li><img src="pictures/Peggy.JPG" width="200" height="200" /><p><span class="name">Peggy Bullerjahn</span> - Peggy is a sophomore, psychology major. She is an undergraduate research assistant in the Trauma and Recovery lab and is interested in clinical psychology with a specific focus on autism research and personality disorders. She is also a member of Psi Chi and involved in the Howe writing center as a writing consultant.</p></li>
+						<li><img src="pictures/Lindsey.JPG" width="200" height="200" /><p><span class="name">Lindsey Collins</span> - Lindsey is a junior, psychology major and statistics minor. She is involved in the Family Relations and Mood Lab as well as the Psychophysiology Lab. Her research interests include the effect of family relations on mood disorders in children, and the treatment of anxiety and panic disorders. Lindsey is also involved in Phi Mu sorority and Psi Chi, is the Vice President of Vision Dance Company, and is a Resident Assistant.</p></li>
+						<li><img src="pictures/Hannah.JPG" width="200" height="200" /><p><span class="name">Hannah Espeleta</span> - Hannah is a junior at Miami University. She is majoring in psychology with a minor in criminology. Hannah is a layout editor of COMPASS, and she has had a year long position with the Trauma and Emotion Regulation Lab as a research assistant. She is interested in, and currently researching, the effects of childhood trauma and their long-term consequences in adulthood. Hannah is also involved in Psi Chi, is a member of the Miami Women’s Club Volleyball team, and is a Resident Assistant on campus.</p></li>
+						<li><img src="pictures/Paul.JPG" width="200" height="200" /><p><span class="name">Dr. Paul Flaspohler</span> - Paul Flaspohler is an Associate Professor of Clinical Psychology at Miami University and the Director of Program Development and Evaluation for the Center for School-Based Mental Health Programs. He received a Ph.D. in Clinical-Community Psychology from the University of South Carolina and completed his clinical internship at the Consultation Center at the Yale School of Medicine In addition to applied research in community development and program evaluation, Dr. Flaspohler assists schools and communities with identifying needs and developing solutions for community problems.</p></li>
+						<li><img src="pictures/Becca_H.JPG" width="200" height="200" /><p><span class="name">Rebecca Haney</span> - Rebecca Haney is a senior psychology major. She is currently working on two different research projects, one in the psychology department and one in the sociology department. The project through the sociology department is looking at the reasoning for the decline in daytime soap operas. More recently, she has starting assisting with a meta-analysis through the psychology department about the difference in occurrence of action and inaction regrets. She really enjoys conducting research so when she graduate this Spring she is hoping to attend graduate school for clinical mental health counseling in order to become a licensed family and marriage counselor in the future.</p></li>
+						<li><img src="pictures/Steve.JPG" width="200" height="200" /><p><span class="name">Stephen Heine</span> - Steve Heine is a current junior studying psychology at Miami University. His research interests are within the area of Social Psychology and specifically deal with Adolescence and Early Adulthood. In terms of campus involvement, he is currently a research assistant in two research labs, an undergraduate assistant for an introductory Developmental Psychology course, and a trip leader for the student run service organization Alternative Spring Break.</p></li>
+						<li><img src="pictures/Joe.JPG" width="200" height="200" /><p><span class="name">Dr. Joseph Johnson</span> - Dr. Johnson is a cognitive and mathematical psychologist who received his B.A. in Psychology and Economics from the University of Toledo in 1998, and his Ph.D. in Psychology and Cognitive Science from Indiana University in 2004. He has also held research positions at the University of Illinois and the Max Planck Institute for Human Development in Berlin, Germany. His research investigates the underlying cognitive processes at work when people make decisions, and uses new methodologies such as eye-tracking to do so. He serves as an Associate Editor for the journal Judgment and Decision Making, as well as the Chair of Miami's Undergraduate Research Committee.</p></li>
+						<li><img src="pictures/Chloe.JPG" width="200" height="200" /><p><span class="name">Chloe Lanka</span> - Chloe is a junior, psychology major with a minor in social justice. She is interested in clinical research, particularly PTSD and the use of equine assisted therapy. Her campus involvement includes membership in the WMSR new music committee, and employment at the Miami University Rec Center.</p></li>
+						<li><img src="pictures/Sylvia.JPG" width="200" height="200" /><p><span class="name">Sylvia Luu</span> - Sylvia is a junior psychology major with a minor in economics. She works as a research assistant in the Judgment and Decision-Making lab and also has research interests in social cognition and game theory. Sylvia is a member of Psi Chi, serves on the executive board of Miami’s feminist organization, is a member of the Asian American Association, and works in Miami’s Office of New Student Programs.</p></li>
+						<li><img src="pictures/Ryan.JPG" width="200" height="200" /><p><span class="name">Ryan Max</span> - Ryan is a junior psychology major. He works as a research assistant in the Behavior, Emotions and Relationships Lab and also has research interests in behavior mimicry and stereotyping. Ryan is a member of Psi Chi, serves on the executive board of Miami's student run radio organization, WMSR - Redhawk Radio, and is a member of the Miami University Men's Club Ultimate Frisbee team.</p></li>
+						<li><img src="pictures/Melissa.JPG" width="200" height="200" /><p><span class="name">Melissa Maykut</span> - Melisa is a junior journalism and psychology major. Her research interest is mainly in social and sports psychology. Eventually, she wants to go to graduate school to get a degree in sports psychology. Besides the editorial board, she is a consultant in the HOWE Center for Writing Excellence and a student worker in Miami's athletic department. She is also a staff writer for the online magazine, Her Campus Miami (OH), and is training to become the new president of the organization beginning in April.</p></li>
+						<li><img src="pictures/Jason_M.JPG" width="200" height="200" /><p><span class="name">Jason Morgan</span> - A former member of national recording artists "July for Kings", Jason Morgan returned to school at age 30 to pursue a Ph.D. in Psychology with the eventual goal of teaching at the university level. Jason is a senior psychology major/philosophy minor with an eye on graduating in May of 2014, and is currently taking part in the Departmental Honors Sequence in Psychology wherein he will be conducting independent research investigating the efficacy of student-assisted teaching in distance learning contexts. Building upon that experience, he plans to specialize in Educational Psychology following his undergraduate studies, particularly in the development of interactive virtual learning environments. His interests include golf, strategy gaming, and video games.</p></li>
+						<li><img src="pictures/Erin_R.JPG" width="200" height="200" /><p><span class="name">Erin Reilly</span> - Erin is a senior psychology and gerontology double major from Cleveland, Ohio. She has a special interest in lifespan development and resiliency. Beyond her involvement with the Editorial Board of COMPASS, she is currently working at an internship at the Oxford Senior Center.</p></li>
+						<li><img src="pictures/cover.jpg" width="200" height="200" /><p><span class="name">Becca Scheidler</span> - Becca is a senior psychology major with a minor in art and architectural history. She is involved in Big Brothers Big Sisters, Relay for Life, Kappa Alpha Theta sorority, and Miami's PT/OT club.</p></li>
+						<li><img src="pictures/Katharine.JPG" width="200" height="200" /><p><span class="name">Katharine Schmidt</span> - Katharine is a junior, psychology major. Her research interests are mainly in social psychology. She is involved in the Behavioral Mimicry Lab, Kappa Alpha Theta sorority, Psi Chi, and is a Butler Crisis Center volunteer.</p></li>
+						<li><img src="pictures/Rachel.JPG" width="200" height="200" /><p><span class="name">Rachel Skipper</span> - Rachel is a senior psychology major and neuroscience minor. Her interests are in biopsychology and neuroscience, with specific focus on neurological damage and disorder. In addition to working with the COMPASS board, she is a research assistant in Miami University's Behavioral Systems Neurobiology Lab and the lead tutor at the Center for Psychological Inquiry. She works also at the Howe Center for Writing Excellence as a student manager and writing consultant.</p></li>
+						<li><img src="Jellyfish.jpg" width="200" height="200" /><p><span class="name">Eli Sullivan</span> - Bio</p></li>
+						<li><img src="pictures/Kim.JPG" width="200" height="200" /><p><span class="name">Kimberly Sylvester</span> - Kimberly is a junior at Miami University. She is currently pursuing a major in psychology and a minor in family relationships. She is a member of Chi Omega Fraternity, and the National Society of Leadership and Success and currently training board member for C.O.M.P.A.S.S. She is also currently an intern for the Incredible Years: Dinosaur School. Her topic sequence of interest is developmental psychology and she hopes to pursue a career in school psychology.</p></li>
+						<li><img src="pictures/Dietz-Uhler.JPG" width="200" height="200" /><p><span class="name">Dr. Beth Dietz-Uhler</span> - Beth Dietz-Uhler is a Professor of Psychology. She is a social psychologist who completed her undergraduate studies at the University of Delaware, where she focused on psychology of women. She received her PhD in social psychology in 1993 at the University of Pittsburgh, focusing on issues related to social identity theory and small group behavior. Her research interests include computer-supported interaction, small group behavior, and most recently, the scholarship of teaching and learning. Her two latest books are Strategic Uses of Social Technology (with Zak Birchmeier and Gary Stasser) and Engaging in the Scholarship of Teaching and Learning (with Cathy Bishop-Clark).</p></li>
+						<li><img src="Jellyfish.jpg" width="200" height="200" /><p><span class="name">Jason Weber</span> - Jason is a sophomore Computer Science major and is the current webmaster for the COMPASS site. He also has created other websites for companies such as GEI Engineering. His research interests include web development, game development, and general application programming. </p></li>
+						<li><img src="pictures/Jordan.JPG" width="200" height="200" /><p><span class="name">Jordan Whitaker</span> - Jordan Whitaker is a senior psychology major, and an English literature minor. Her research interests include developmental psychology and social psychology. She is a member of Delta Zeta and Big Brothers Big Sisters.</p></li>
+						<li><img src="pictures/Bryn.jpg" width="90" height="250" /><p><span class="name">Bryn Wilkin</span> - Bryn is a junior and is pursuing a double major in nutrition and psychology. Her research interests include judgment and decision making and she is currently in the Judgment and Decision Making Lab. Bryn is also a Miami Tour Guide, Cellist in the Miami Chamber music, and is a member of the Student Academy of Nutrition and Dietetics.</p></li>
+					</ul>
+					<h3>Our Sponserships</h3>
+					<ul id="sponsershipList">
+						<li><a class="redLink" href="http://writingcenter.lib.muohio.edu/">Howe Writing Center</a></li>
+						<li><a class="redLink" href="http://writingcenter.lib.muohio.edu/?page_id=1023">Grant</a></li>
+					</ul> 
+					<a class="redLink" href="contact.html">Contact Us!</a>
+					</div>
+					<div id="footer">
+						<div class="center">
+							<img src="Miami.png">
+							<a href="http://www.units.miamioh.edu/psychology" target="_blank">Department of Psychology</a>
+							<p><a href="http://www.miamioh.edu" target="_blank">Miami University, Oxford, OH</a></p>
+						</div>
+					</div>
+					
+				</div><!-- content -->
+			</div><!-- main -->
+		</div><!-- body -->
+	</div><!-- container -->
+</body>
+</html>
